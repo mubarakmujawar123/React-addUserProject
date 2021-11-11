@@ -1,6 +1,6 @@
 import React from 'react';
 import './style.css';
-import AddUsers from './Component/User/AddUsers';
+import AddUsers from './Component/Users/AddUsers';
 export default function App() {
   return (
     <div>
